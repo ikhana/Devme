@@ -306,6 +306,13 @@ export const PROJECTS = [
       "Piggment is a creative platform that provides users with the gradient they have always wanted, offering a wide range of customizable gradient options.",
     image: "/projects/piggment.jpeg",
     link: "https://piggment.co/",
+  },
+  {
+    title: "The Book of Holy Shit",
+    description:
+      'The Book of Holy Shit is a unique meme coin project that captures and rewards the community\'s hilarious "Holy Shit" moments. It leverages the power of blockchain to create a fun and engaging platform where users can share their funny experiences and earn BOHS tokens.',
+    image: "/projects/meme.png",
+    link: "https://bookofholyshit.com/",
   }
 ] as const;
 
