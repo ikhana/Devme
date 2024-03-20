@@ -311,7 +311,7 @@ export const PROJECTS = [
     title: "The Book of Holy Shit",
     description:
       'The Book of Holy Shit is a unique meme coin project that captures and rewards the community\'s hilarious "Holy Shit" moments. It leverages the power of blockchain to create a fun and engaging platform where users can share their funny experiences and earn BOHS tokens.',
-    image: "/projects/meme.png",
+    image: "/projects/meme.jpeg",
     link: "https://bookofholyshit.com/",
   }
 ] as const;
